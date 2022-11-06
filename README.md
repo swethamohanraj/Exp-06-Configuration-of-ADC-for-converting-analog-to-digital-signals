@@ -215,9 +215,10 @@ Result :
 Configuring an ADC and the input values are displayed on LCD screen 
 
 Output screen shots :
-
 ![Screenshot (369)](https://user-images.githubusercontent.com/94228215/200165988-51728bef-398d-4dd2-8132-c2f4345427a8.png)
+
 ![Screenshot (370)](https://user-images.githubusercontent.com/94228215/200165997-f45f6572-b39f-4c19-91ea-d6d03b9ff0f5.png)
+
 ![Screenshot (371)](https://user-images.githubusercontent.com/94228215/200166006-1189a5fc-82d1-45e0-a685-363baa35091e.png)
 
 
